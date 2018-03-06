@@ -37,5 +37,6 @@
 
     $_SESSION['msg'] = $msg;
     $_SESSION['values'] = $values;
+    var_dump($msg);
 
     header('location: index.php');
