@@ -34,9 +34,9 @@
             $msg['global'] = '<b>There was an error sending the message.</b><br>"' . $e->getMessage() . '"';
         }
     }
-
+    var_dump($msg);
     $_SESSION['msg'] = $msg;
     $_SESSION['values'] = $values;
-    var_dump($msg);
+
 
     header('location: index.php');
