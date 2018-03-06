@@ -1,0 +1,10 @@
+{
+	"email_account" : {
+		"email" : "email.to.send.messages@ipleiria.pt",
+		"emailName" : "Name Used on email",
+		"SMTP" : "smtp server address",
+		"port" : "PORT number used",
+		"username" : "username used on email server",
+		"password" : "password used on email server"
+	}
+}
