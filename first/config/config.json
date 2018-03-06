@@ -1,10 +1,10 @@
 {
 	"email_account" : {
-		"email" : "email.to.send.messages@ipleiria.pt",
-		"emailName" : "Name Used on email",
-		"SMTP" : "smtp server address",
-		"port" : "PORT number used",
-		"username" : "username used on email server",
-		"password" : "password used on email server"
+		"email" : "rui.ps.lavos@gmail.com",
+		"emailName" : "Rui Lavos 2172325",
+		"SMTP" : "smtp.gmail.com",
+		"port" : "465",
+		"username" : "rui.ps.lavos@gmail.com",
+		"password" : "k716103diana"
 	}
 }
