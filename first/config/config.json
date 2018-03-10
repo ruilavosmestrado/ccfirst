@@ -2,7 +2,7 @@
 	"email_account" : {
 		"email" : "rui.ps.lavos@gmail.com",
 		"emailName" : "Rui Lavos 2172325",
-		"SMTP" : "ssl://smtp.gmail.com",
+		"SMTP" : "smtp.gmail.com",
 		"port" : "465",
 		"username" : "rui.ps.lavos@gmail.com",
 		"password" : "k716103marta"
