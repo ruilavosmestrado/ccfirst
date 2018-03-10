@@ -1,10 +1,11 @@
 {
 	"email_account" : {
-		"email" : "rui_lavos@outlook.com",
+		"email" : "rui.ps.lavos@gmail.com",
 		"emailName" : "Rui Lavos 2172325",
-		"SMTP" : "smtp-mail.outlook.com",
+		"SMTP" : "smtp.gmail.com",
 		"port" : "587",
-		"username" : "rui_lavos@outlook.com",
-		"password" : "k716103marta"
+		"username" : "rui.ps.lavos@gmail.com",
+		"password" : "2230 1240",
+		"encryption": "tls"
 	}
 }
