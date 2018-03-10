@@ -5,7 +5,6 @@
 		"SMTP" : "smtp.gmail.com",
 		"port" : "587",
 		"username" : "rui.ps.lavos@gmail.com",
-		"password" : "k716103marta"//,
-		//"encryption": "tls"
+		"password" : "k716103marta"
 	}
 }
